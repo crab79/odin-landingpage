@@ -7,14 +7,35 @@ body {
 .footer {
     background-color: #1f2937;
 }
-.header-main-text h1{
+.header-main-text h1 {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
 }
 .header-main-text p,
-.header-bar li{
+.header-bar li {
     font-size: 18px;
     color: #e5e7eb;
 }
-
+.header-bar p {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.header-main-text button,
+.sign-up {
+    background-color: #3882f6;
+}
+.second-part h2{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+.quote-section {
+    background-color: #e5e7eb;
+}
+.quote-section p {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
