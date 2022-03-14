@@ -53,6 +53,11 @@ body {
     font-weight: 600;
 }
 
+.sign-up a:hover{
+    background-color: #e5e7eb;
+    color: #3882f6;
+}
+
 .header-main-text a:hover {
     background-color: #ffffff;
     color: #3882f6;
