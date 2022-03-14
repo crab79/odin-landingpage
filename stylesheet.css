@@ -149,3 +149,19 @@ a {
     width: 200px;
     padding: 30px;
 }
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.quote-section p {
+    width: 800px;
+}
+.quote-section h3 {
+    text-align:end;
+    margin: 0;
+}
