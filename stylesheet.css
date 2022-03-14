@@ -7,7 +7,7 @@ body {
 }
 .header,
 .footer {
-    background-color: #1f2937;
+    background-color: #5792BB;
 }
 .header-main-text h1 {
     font-size: 48px;
@@ -35,7 +35,7 @@ body {
     color: #f9faf8;
 }
 .header-main-text a {
-    background-color: #3882f6;
+    background-color: #FF956E;
     padding: 10px 30px;
     color: #e5e7eb;
     border: none;
@@ -55,12 +55,12 @@ body {
 
 .sign-up a:hover{
     background-color: #e5e7eb;
-    color: #3882f6;
+    color: #FF956E;
 }
 
 .header-main-text a:hover {
     background-color: #ffffff;
-    color: #3882f6;
+    color: #FF956E;
 }
 
 .second-part h2{
@@ -69,13 +69,17 @@ body {
     color: #1f2937;
 }
 .quote-section {
-    background-color: #e5e7eb;
+    background-color: #5792BB;
 }
 .quote-section p {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
-    color: #1f2937;
+    color: #e5e7eb;
+}
+
+.quote-section h3 {
+    color: #e5e7eb;
 }
 
 .footer {
@@ -159,7 +163,7 @@ a {
 }
 
 .info img {
-    border:#3882f6 solid;
+    border:#FFDA6E solid;
     border-radius: 10px;
     width: 200px;
     height: 200px;
@@ -199,7 +203,7 @@ a {
     justify-content: center;
     align-items: center;
     gap: 90px;
-    background-color: #3882f6;
+    background-color: #FF956E;
     padding: 20px 60px;
 }
 

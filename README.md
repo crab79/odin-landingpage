@@ -1,1 +1,2 @@
 # odin-landpage
+This is my second project in The Odin Project. I am happy that I can finish everything while not depending on others and not watching other people's codes. I wish I could keep completing all the courses on the website and doing faster on each project.  
